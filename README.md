@@ -10,7 +10,7 @@ standard functions. This project gives the opportunity to re-write those functio
 In this first part, we must re-code a set of the libc functions, as defined in their
 man. Our functions will need to present the same prototype and behaviors as the originals. Our functions’ names must be prefixed by “ft_”.
 
-Functions I:
+**Functions I**:
 - memset
 - bzero
 - memcpy
@@ -39,7 +39,7 @@ Functions I:
 ## Part II
 In this second part, you must code a set of functions that are either not included in the libc, or included in a different form.
 
-Functions II:
+**Functions II**:
 - ft_substr
 - ft_strjoin
 - ft_strtrim
@@ -52,7 +52,7 @@ Functions II:
 - ft_putnbr_fd
 
 ## Bonus Part
-Functions to manipulate lists:
+**Functions to manipulate lists**:
 - ft_lstnew
 - ft_lstadd_front
 - ft_lstsize
